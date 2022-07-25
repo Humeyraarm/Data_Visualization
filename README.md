@@ -1,4 +1,4 @@
-Data Visualisation with Pyhton libraries;
+Data Visualization with Pyhton libraries;
 
 1. Pandas
 
