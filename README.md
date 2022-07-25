@@ -1,2 +1,5 @@
-# DV
-Data Visualisation with Pyhton
+Data Visualisation with Pyhton libraries;
+Pandas
+Matplotlib
+Seaborn
+Scipy
