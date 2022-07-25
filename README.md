@@ -1,9 +1,9 @@
 Data Visualisation with Pyhton libraries;
 
-Pandas
+1. Pandas
 
-Matplotlib
+2. Matplotlib
 
-Seaborn
+3. Seaborn
 
-Scipy
+4. Scipy
